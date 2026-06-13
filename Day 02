@@ -1,1 +1,17 @@
+#' Day 2: 30 Days of Python Programming'
+first_name = "Sarah"
+last_name = "Siddiqui"
+full_name = "Sarah Siddiqui"
+country = "USA"
+city = "San Jose"
+age = 200
+year = 1954
+is_married = "yes"
+is_true = "no"
+is_light_on = "NA"
+first_name, last_name, full_name, country, city, age, year, is_married, is_true, is_light_on = "Sarah", "Siddiqui"," Sarah Siddiqui", "USA", "San Jose", 200,1954, "yes", "no", "NA"
+
+# Check the data type of all variables
+print(type(firstname,last_name,country,city,age,year,is_married,is_true,is_light_on))
+
 
